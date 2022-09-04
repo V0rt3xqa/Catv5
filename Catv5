@@ -1,0 +1,3 @@
+halal = loadstring(readfile("vape/NewMainScript.lua"))
+sex = pcall
+sex(halal)
